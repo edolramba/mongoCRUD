@@ -1,0 +1,22 @@
+{
+  "name": "mongocrud",
+  "version": "1.0.0",
+  "description": "\"# mongoCRUD\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edolramba/mongoCRUD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edolramba/mongoCRUD/issues"
+  },
+  "homepage": "https://github.com/edolramba/mongoCRUD#readme",
+  "dependencies": {
+    "mongodb": "^3.1.8"
+  }
+}
